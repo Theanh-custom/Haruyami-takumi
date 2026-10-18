@@ -10,7 +10,7 @@
 
 ### 📦 Thông tin kỹ thuật
 - **Package gốc:** `Haruyami.takumi.com`
-- **Package mới:** `com.hungle078637536.custom` (bạn nhớ đổi trong NP Manager)
+- **Package mới:** `com.Haruyamitakumi.custom` (bạn nhớ đổi trong NP Manager)
 - **Min SDK:** 24 (Android 7.0)
 - **Target SDK:** 37
 
