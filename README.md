@@ -1,23 +1,26 @@
-# Haruyami-takumi - Bản Tùy Biến
+<div align="center">
 
-> Fork tùy biến giao diện từ dự án gốc **Haruyami Takumi** trên F-Droid.
-> Đây **không phải** là app chính thức của tác giả gốc.
+# 💊 Morphe Style - Haruyami Takumi
 
-### ✨ Thay đổi so với bản gốc
-- Đổi mới App Icon: từ giỏ hàng -> icon chibi nam anime
-- Nâng Version: 2.0.1 (2000051) -> 2.0.10 (2000052)
-- Giữ nguyên toàn bộ tính năng gốc, nhẹ, không quảng cáo
+**Fork tùy biến giao diện từ dự án gốc Haruyami Takumi trên F-Droid**
 
-### 📦 Thông tin kỹ thuật
-- **Package gốc:** `Haruyami.takumi.com`
-- **Package mới:** `com.Haruyamitakumi.custom` (bạn nhớ đổi trong NP Manager)
-- **Min SDK:** 24 (Android 7.0)
-- **Target SDK:** 37
+[![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-green?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/version-1.0--custom-00C2FF?style=for-the-badge)](#)
 
-### 📜 Giấy phép & Nguồn
-- **Giấy phép:** GPL-3.0 (giữ nguyên theo dự án gốc)
-- **Mã nguồn gốc:** https://f-droid.org/packages/Haruyami.takumi.com
-- **Tác giả gốc:** Haruyami Takumi
+[WEBSITE](https://github.com/Theanh-custom/Haruyami-takumi) • [DOCUMENTATION](#) • [GUIDES](#) • [REDDIT](#) • [TRANSLATIONS](#)
 
-### 🙏 Lời cảm ơn
-Nếu bạn thích dự án, hãy ủng hộ tác giả gốc trên F-Droid nhé!
+---
+
+### [⬇️ Download Haruyami Takumi Chibi](https://github.com/Theanh-custom/Haruyami-takumi/releases/tag/1.0-custom)
+
+*Want to watch ads? Us neither.*
+
+</div>
+
+### ✨ Giao diện
+- Icon chibi 14.13 MB
+- Dark theme đen xịn như Morphe
+- Clean, no ads
+
+### 📦 Tải
+Vào Releases để tải
